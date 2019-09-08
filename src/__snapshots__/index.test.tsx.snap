@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlexContainer Component Renders component 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+    }
+  }
+/>
+`;
