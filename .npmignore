@@ -8,3 +8,5 @@ jest.config.js
 tslint.json
 yarn.lock
 yarn-error.log
+/.circleci
+/tests

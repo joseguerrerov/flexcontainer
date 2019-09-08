@@ -1,6 +1,6 @@
 {
   "name": "flexcontainer",
-  "version": "1.0.0",
+  "version": "0.0.21",
   "private": false,
   "main": "lib",
   "types": "lib",
@@ -12,6 +12,14 @@
     "test": "jest",
     "build": "tsc -p .",
     "tslint": "tslint -c tslint.json -p tsconfig.json"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/joseguerrerov/flexcontainer#readme",
+  "repository": {
+    "url": "https://github.com/joseguerrerov/flexcontainer"
+  },
+  "bugs": {
+    "url": "https://github.com/joseguerrerov/flexcontainer/issues"
   },
   "devDependencies": {
     "@types/enzyme": "^3.10.3",
