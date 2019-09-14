@@ -1,6 +1,29 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`FlexContainer Component Renders component 1`] = `
+exports[`FlexContainer Component Render renders with props 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "center",
+      "alignItems": "center",
+      "alignSelf": "flex-end",
+      "display": "flex",
+      "flex": 1,
+      "flexDirection": "column",
+      "flexFlow": "column",
+      "flexWrap": "nowrap",
+      "justifyContent": "center",
+      "order": 1,
+    }
+  }
+>
+  <p>
+    Test
+  </p>
+</div>
+`;
+
+exports[`FlexContainer Component Render renders without props 1`] = `
 <div
   style={
     Object {

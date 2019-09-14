@@ -38,7 +38,7 @@ const FlexContainer: React.FC<IProps> = ({
   return (
     <div style={style}>
       {props.children}
-      </div>
+    </div>
   );
 };
 
